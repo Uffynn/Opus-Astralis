@@ -10,4 +10,4 @@ Prerequisites:
 1. Install dependencies: npm install sqlite3
 2. Ensure TypeScript is installed: npm install -g typescript
 3. Compile the script: tsc analyzegrp.ts
-4. Run the script: node analyzegrp.js
+4. Run the script: node analyzegrp.js 
