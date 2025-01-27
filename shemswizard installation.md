@@ -32,4 +32,4 @@ TELEGRAM_API_KEY=your_telegram_api_key
 POST_GROUP=your_telegram_group_id
 RED_GROUPS=red_group_1,red_group_2
 YELLOW_GROUPS=yellow_group_1
-GREEN_GROUPS=green_group_1,green_group_2
+GREEN_GROUPS=green_group_1,green_group_2 
