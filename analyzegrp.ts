@@ -36,7 +36,7 @@ function analyzePerformance(): void {
     > = {};
 
     // Print headers for the detailed output table
-    console.log("CA | Highest Multiplier | From Group");
+    console.log("CA | Highest Multiplier | From Group"); 
     console.log("-".repeat(40));
 
     let lineDrawn = false; // Flag to control when to draw a separating line in the output
