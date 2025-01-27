@@ -31,7 +31,7 @@ if (require.main === module) {
   // Check if the script was run with the correct number of arguments
   const args = process.argv.slice(2);
   if (args.length !== 1) {
-    console.error("Usage: node removewatch.js <ca>");
+    console.error("Usage: node removewatch.js <ca>"); 
     process.exit(1);
   }
 
