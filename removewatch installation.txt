@@ -10,10 +10,10 @@ Key Points:
 
 3. Command-Line Arguments:
 - Used process.argv.slice(2) to parse command-line arguments.
-- Validates that exactly one argument (the contract address) is provided.
+- Validates that exactly one argument (the contract address) is provided.  
 
 4. TypeScript Type Safety:
-- Ensures that the ca parameter is always a string.
+- Ensures that the ca parameter is always a string. 
 
 Prerequisites:
 1. Install sqlite3: npm install sqlite3
